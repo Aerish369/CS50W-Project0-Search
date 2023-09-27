@@ -1,0 +1,234 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+
+body{
+    background-color: white;
+}
+
+img {
+    margin-top: 165px;
+    margin-left: 490px;
+    position: relative;
+    bottom: 131px;
+    right: 451px;
+    width: 131px;
+}
+
+h2 {
+    position: absolute;
+    top: 142px;
+    left: 68px;
+}
+
+form{
+    
+    margin-top: 20px;
+    margin-left: 600px;
+    
+}
+
+input#googleSearch {
+    position: relative;
+    top: 17px;
+    left: 112px;
+    padding: 5px;
+    width: 120px;
+    height: 40px;
+}
+
+input#input {
+    width: 38%;
+    height: 50px;
+    position: absolute;
+    left: 472px;
+    bottom: 435px;
+    padding: 20px;
+}
+
+
+img#Apps {
+    width: 40px;
+    position: absolute;
+    bottom: 690px;
+    right: 64px;
+}
+img#Account {
+    width: 35px;
+    position: absolute;
+    bottom: 692px;
+    right: 22px;
+}
+
+
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+#imgSearch{
+    margin-right: 5px;
+    
+
+}
+
+.alink {
+    position: absolute;
+    top: 20px;
+    right: 121px;
+}
+
+#first{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    right: 524px;
+    top: 60px;
+}
+
+
+#second{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    right: 524px;
+    top: 89px;
+}
+
+#third{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 116px;
+    right: 524px;
+    
+}
+
+#fourth{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 149px;
+    right: 523px;
+}
+
+
+h3 {
+    position: relative;
+    right: 526px;
+    top: 35px;
+}
+
+input#advSearch {
+    
+    top: 17px;
+    padding: 5px;
+    width: 120px;
+    height: 40px;
+    position: relative;
+    left: -82px;
+    top: 185px;
+}
+
+#a {
+    position: relative;
+    width: 360px;
+    height: 25px;
+    left: 85px;
+}
+
+#b {
+    position: relative;
+    width: 360px;
+    height: 25px;
+    left: 14px;
+}
+#c {
+    position: relative;
+    width: 360px;
+    height: 25px;
+    left: 59px;
+}
+#d {
+    position: relative;
+    width: 360px;
+    height: 25px;
+    left: 54px;
+}
+
+
+#desTitle {
+    position: relative;
+    left: 639px;
+    bottom: 126px;
+}
+
+@font-face {
+    font-family: roboto;
+    src: url(roboto.ttf);
+}
+
+p#pOne {
+    position: absolute;
+    left: 658px;
+    top: 318px;
+}
+
+p#Pone {
+    position: absolute;
+    top: 316px;
+    left: 840px;
+}
+
+p#pTwo {
+    position: absolute;
+    left: 658px;
+    bottom: 349px;
+}
+
+p#Ptwo {
+    position: absolute;
+    left: 832px;
+    bottom: 348px;
+}
+
+p#pThree {
+    position: absolute;
+    left: 658px;
+    bottom: 297px;
+}
+
+
+p#Pthree {
+    position: absolute;
+    left: 930px;
+    bottom: 297px;
+}
+
+p#pFour {
+    position: absolute;
+    left: 658px;
+    bottom: 238px;
+}
+
+p#Pfour {
+    position: absolute;
+    left: 1011px;
+    bottom: 238px;
+}

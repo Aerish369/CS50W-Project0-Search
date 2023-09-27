@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+
+body{
+    background-color: white;
+}
+
+img{
+    margin-top: 200px;
+    margin-left: 600px;
+    position: relative;
+    bottom: 76px;
+    right: -35px;
+}
+
+
+form{
+    
+    margin-top: 20px;
+    margin-left: 600px;
+    
+}
+
+input#googleSearch {
+    position: relative;
+    top: 17px;
+    left: 112px;
+    padding: 5px;
+    width: 120px;
+    height: 40px;
+}
+
+input#input {
+    width: 38%;
+    height: 50px;
+    position: absolute;
+    left: 472px;
+    bottom: 435px;
+    padding: 20px;
+}
+
+img#Apps {
+    width: 40px;
+    position: absolute;
+    bottom: 47px;
+    right: 46px;
+}
+
+img#Account {
+    width: 35px;
+    position: absolute;
+    bottom: 49px;
+    right: 4px;
+}
+
+
+
+.sideIcons {
+    position: relative;
+    bottom: 378px;
+    left: 1430px;
+    height: 118px;
+    width: 92px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+#imgSearch{
+    margin-right: 5px;
+    
+
+}
+
+.alink {
+    position: absolute;
+    top: 20px;
+    right: 121px;
+}

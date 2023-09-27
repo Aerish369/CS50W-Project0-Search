@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+
+body{
+    background-color: white;
+}
+
+img{
+    margin-top: 200px;
+    margin-left: 600px;
+    position: relative;
+    bottom: 76px;
+    right: -35px;
+}
+
+
+form{
+    
+    margin-top: 20px;
+    margin-left: 600px;
+    
+}
+
+
+
+
+.alink {
+    position: absolute;
+    top: 20px;
+    right: 121px;
+}
+
+
+
+input#googleSearch {
+    position: relative;
+    top: 17px;
+    left: 41px;
+    padding: 5px;
+    width: 120px;
+    height: 40px;
+}
+
+
+input#luckySearch {
+    position: relative;
+    top: 17px;
+    left: 60px;
+    padding: 5px;
+    width: 136px;
+    height: 40px;
+}
+
+input#input {
+    width: 38%;
+    height: 50px;
+    position: absolute;
+    left: 473px;
+    padding: 20px;
+    bottom: 435px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+#imgSearch{
+    margin-right: 5px;
+    
+
+}
+
+
+
+img#Apps {
+    width: 40px;
+    position: absolute;
+    bottom: 47px;
+    right: 46px;
+}
+
+img#Account {
+    width: 35px;
+    position: absolute;
+    bottom: 49px;
+    right: 4px;
+}
+
+
+
+.sideIcons {
+    position: relative;
+    bottom: 378px;
+    left: 1430px;
+    height: 118px;
+    width: 92px;
+}
+
